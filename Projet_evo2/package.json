@@ -1,0 +1,14 @@
+{
+  "name": "projet_evo2",
+  "version": "1.0.0",
+  "description": "Une formation en nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Franck Freddy",
+  "license": "MIT"
+}
